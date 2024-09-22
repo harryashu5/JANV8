@@ -9,12 +9,12 @@ from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 AUTO_GCASTS = f"{AUTO_GCAST}" if AUTO_GCAST else True
 
 
-MESSAGE = f"""**𝐏ᴀɪᴅ 𝐏ʀᴏᴍᴏᴛɪᴏɴ 𝐀ᴠᴀɪʟᴀʙʟᴇ 𝐕ɪᴀ 𝐌ᴜsɪᴄ 𝐁ᴏᴛs
+MESSAGE = f"""** 𝐏ʀᴏᴍᴏᴛɪᴏɴ 𝐀ᴠᴀɪʟᴀʙʟᴇ 𝐕ɪᴀ 𝐌ᴜsɪᴄ 𝐁ᴏᴛs
 
 [𝐂ʜᴀᴛᴛɴɢ 𝐆ʀᴏᴜᴘs 𝐂ᴏʟᴏʀ 𝐓ʀᴀᴅɪɴɢ 𝐆ᴀᴍᴇs, 𝐂ʜᴀɴɴᴇʟs, 𝐁ᴇᴛᴛɪɴɢ, 𝐀ᴅs 𝐀ɴʏᴛʜɪɴɢ]
 
 𝐏ʀᴏᴍᴏᴛᴇ 𝐀ɴʏᴛʜɪɴɢ 𝐘ᴏᴜ 𝐖ᴀɴᴛ 𝐎ɴ 𝐎ᴜʀ 𝐏ʟᴀᴛғᴏʀᴍ 𝐖ɪᴛʜ 𝐁ᴇsᴛ 𝐑ᴇsᴜʟᴛs.
-𝐃ᴀɪʟʏ, 𝐖ᴇᴇᴋʟʏ, 𝐌ᴏɴᴛʜʟʏ, 𝐏ʟᴀɴs 𝐀ᴠɪᴀɪʟᴀʙʟᴇ.
+🥰🌧️💥👀🏔️
 
 𝐃ᴍ @ll_SARKAR_MERA_BABU_ll"""
 
