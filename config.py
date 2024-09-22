@@ -31,7 +31,7 @@ HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/SARKAROP123/RADHAVPS",
+    "https://github.com/harryashu5/JANV8",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "master")
 GIT_TOKEN = getenv(
@@ -103,10 +103,10 @@ clean = {}
 autoclean = []
 
 START_IMG_URL = getenv(
-    "START_IMG_URL", "https://telegra.ph/file/41ec8f174b98e691047f7.png"
+    "START_IMG_URL", "https://graph.org/file/0c2c5610c63e4bc13544c.jpg"
 )
 PING_IMG_URL = getenv(
-    "PING_IMG_URL", "https://telegra.ph/file/a494ac7666704a51d6448.png"
+    "PING_IMG_URL", "https://graph.org/file/772ba470b6b1d5a4f49d6.jpg"
 )
 PLAYLIST_IMG_URL = "https://telegra.ph/file/41ec8f174b98e691047f7.png"
 STATS_IMG_URL = "https://telegra.ph/file/41ec8f174b98e691047f7.png"
